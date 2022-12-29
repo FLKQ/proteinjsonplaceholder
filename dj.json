@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 0,
+       "title" : "GHOST® Legend Sour Patch Kids® Redberry®",
+       "category": "pre-workout",
+       "price": "$54.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/LegendV2RB_400x.png?v=1641330627"
+    },
+    {
+      "id": 1,
+       "title" : "Ghost legend® all out x warheads®",
+       "category": "pre-workout",
+       "price": "$44.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/LegendAllOutWarheads_400x.png?v=1663863638"
+    },
+    {
+      "id": 2,
+       "title" : "Ghost legend® x sonic®",
+       "category": "pre-workout",
+       "price": "$44.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/LegendV2SonicOW_400x.png?v=1624462174"
+    },
+
+    {
+      "id": 3,
+       "title" : "Ghost® whey",
+       "category": "protein",
+       "price": "$44.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyCoffeeIC_400x.png?v=1632237456"
+    },
+    {
+      "id": 4,
+       "title" : "Ghost® whey x oreo®",
+       "category": "protein",
+       "price": "$44.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyOreoBdayCake_400x.png?v=1658764701"
+    },
+    {
+      "id": 5,
+       "title" : "Ghost® whey x oreo®",
+       "category": "protein",
+       "price": "$44.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyOREO_400x.png?v=1625590063"
+    },
+    {
+      "id": 6,
+       "title" : "Ghost® gamer x sour patch kids®",
+       "category": "Gamer",
+       "price": "$39.99",
+       "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/GamerSPKPineapple_400x.png?v=1658120391"
+    }
+  ]
+}
